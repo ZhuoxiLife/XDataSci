@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on X&#39;s Data Sci</title>
-    <link>http://example.org/categories/</link>
-    <description>Recent content in Categories on X&#39;s Data Sci</description>
+    <title>Categories on X&#39;s Data Science Hub</title>
+    <link>http://datasci.netlify.app/categories/</link>
+    <description>Recent content in Categories on X&#39;s Data Science Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 03 Jan 2021 13:21:03 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://datasci.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Category 1</title>
+      <link>http://datasci.netlify.app/categories/category-1/</link>
+      <pubDate>Sun, 03 Jan 2021 13:21:03 -0500</pubDate>
+      
+      <guid>http://datasci.netlify.app/categories/category-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Category 2</title>
+      <link>http://datasci.netlify.app/categories/category-2/</link>
+      <pubDate>Sun, 03 Jan 2021 13:21:03 -0500</pubDate>
+      
+      <guid>http://datasci.netlify.app/categories/category-2/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

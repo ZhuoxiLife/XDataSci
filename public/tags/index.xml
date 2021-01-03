@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on X&#39;s Data Sci</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on X&#39;s Data Sci</description>
+    <title>Tags on X&#39;s Data Science Hub</title>
+    <link>http://datasci.netlify.app/tags/</link>
+    <description>Recent content in Tags on X&#39;s Data Science Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 03 Jan 2021 13:21:03 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://datasci.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Another test</title>
+      <link>http://datasci.netlify.app/tags/another-test/</link>
+      <pubDate>Sun, 03 Jan 2021 13:21:03 -0500</pubDate>
+      
+      <guid>http://datasci.netlify.app/tags/another-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://datasci.netlify.app/tags/test/</link>
+      <pubDate>Sun, 03 Jan 2021 13:21:03 -0500</pubDate>
+      
+      <guid>http://datasci.netlify.app/tags/test/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

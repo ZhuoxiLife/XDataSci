@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>X&#39;s Data Science Hub</title>
-    <link>http://datasci.netlify.app/</link>
-    <description>Recent content on X&#39;s Data Science Hub</description>
+    <title>Test on X&#39;s Data Science Hub</title>
+    <link>http://datasci.netlify.app/tags/test/</link>
+    <description>Recent content in Test on X&#39;s Data Science Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Jan 2021 13:21:03 -0500</lastBuildDate>
     
-	<atom:link href="http://datasci.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://datasci.netlify.app/tags/test/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
