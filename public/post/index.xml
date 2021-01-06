@@ -2,31 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on X&#39;s Data Science Hub</title>
-    <link>https://datasci.netlify.app/post/</link>
+    <link>https://datasci.zhuoxi.me/post/</link>
     <description>Recent content in Posts on X&#39;s Data Science Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Jan 2021 13:21:03 -0500</lastBuildDate>
     
-	<atom:link href="https://datasci.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://datasci.zhuoxi.me/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://datasci.netlify.app/post/my-first-post/</link>
+      <link>https://datasci.zhuoxi.me/post/about/</link>
       <pubDate>Sun, 03 Jan 2021 13:21:03 -0500</pubDate>
       
-      <guid>https://datasci.netlify.app/post/my-first-post/</guid>
+      <guid>https://datasci.zhuoxi.me/post/about/</guid>
       <description>ddddd</description>
-    </item>
-    
-    <item>
-      <title>dddd</title>
-      <link>https://datasci.netlify.app/post/second/</link>
-      <pubDate>Sun, 03 Jan 2021 13:21:03 -0500</pubDate>
-      
-      <guid>https://datasci.netlify.app/post/second/</guid>
-      <description>dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</description>
     </item>
     
   </channel>
