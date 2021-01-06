@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Category 1 on X&#39;s Data Science Hub</title>
-    <link>https://datasci.zhuoxi.me/categories/category-1/</link>
+    <link>www.datasci.zhuoxi.me/categories/category-1/</link>
     <description>Recent content in Category 1 on X&#39;s Data Science Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Jan 2021 13:21:03 -0500</lastBuildDate>
     
-	<atom:link href="https://datasci.zhuoxi.me/categories/category-1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.datasci.zhuoxi.me/categories/category-1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://datasci.zhuoxi.me/post/about/</link>
+      <link>www.datasci.zhuoxi.me/post/about/</link>
       <pubDate>Sun, 03 Jan 2021 13:21:03 -0500</pubDate>
       
-      <guid>https://datasci.zhuoxi.me/post/about/</guid>
+      <guid>www.datasci.zhuoxi.me/post/about/</guid>
       <description>ddddd</description>
     </item>
     
